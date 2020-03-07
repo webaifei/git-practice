@@ -5,3 +5,4 @@
 2. git reset --hard  本地修改也会回退
 3. git checkout -b branch_name 创建一个branch_name 分支，并且checkout到这个分支上
 4. memeber a update doc
+5. git merge 快速合并
